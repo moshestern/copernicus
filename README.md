@@ -1,5 +1,6 @@
 # copernicus
-a single-page app that load 2 random Sentinel-2 images over Israel from the Sentinel Hub.
+a single-page app that load 2 random Sentinel-2 images over Israel from the Sentinel Hub.\
+https://scihub.copernicus.eu/userguide/OpenSearchAPI
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
